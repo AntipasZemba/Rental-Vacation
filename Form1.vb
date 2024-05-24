@@ -1,7 +1,7 @@
 ﻿Imports System.Diagnostics.Eventing.Reader
 
 Public Class Form1
-    'Displaring cinstant
+    'Displaring constant
     Dim dblOffSeason As Double = 50
     Dim dblPeakSeason As Double = 150
     Dim dblStandardSeason As Double = 100
