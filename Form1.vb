@@ -91,7 +91,6 @@ Public Class Form1
         dblTax = dblSubtotal * 0.1
         dblTotal = dblSubtotal + dblTax
 
-
         'display output
         lblSubtotal.Text = FormatCurrency(dblSubtotal)
         lblTax.Text = FormatCurrency(dblTax)
